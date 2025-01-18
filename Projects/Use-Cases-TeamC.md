@@ -6,6 +6,6 @@
 
 3. Akshay Gulhane
 
-4. Yogendra Bhavsar
+4. Yogendra Bhavsar - Electronic Health Records
 
-5. Vishal Rathod - Online voting system
+5. Vishal Rathod - Online Voting System
